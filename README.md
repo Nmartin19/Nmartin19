@@ -1,5 +1,5 @@
 <div>
-  <img src="https://github.com/Nmartin19/github-resources/blob/main/Ejercicio Dashboard de ventas.png" alt="Dynamic Excel Dashboard" style="width: 100%; max-width: 1280px; height: auto;">
+  <img src="https://github.com/Nmartin19/github-resources/blob/main/banner github.png" alt="Dynamic Excel Dashboard" style="width: 100%; max-width: 1280px; height: auto;">
 </div>
 
 <h1 align="center">Hi 👋, I'm Nacho</h1>
