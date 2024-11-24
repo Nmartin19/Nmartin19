@@ -1,4 +1,6 @@
-![MasterHead]()
+<div>
+  <img src="https://github.com/Nmartin19/github-resources/blob/main/Ejercicio Dashboard de ventas.png" alt="Dynamic Excel Dashboard" style="width: 100%; max-width: 1280px; height: auto;">
+</div>
 
 <h1 align="center">Hi 👋, I'm Nacho</h1>
 <h3 align="center">Data-driven archaeologist turned data analyst, passionate about leveraging insights to drive impact. Avid gamer, hiker and explorer</h3>
