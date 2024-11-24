@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Nacho</h1>
 <h3 align="center">Data-driven archaeologist turned data analyst, passionate about leveraging insights to drive impact. Avid gamer, hiker and explorer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Y4a2xtOTJ6enU4aWV1ZjJqcnJxenFqdWpnaXNoZW45Z2U1dmVxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x6rRjv7RasCf51xGoe/giphy.webp">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZpazF3Zm04OGxiMjdqbGVxenhpbXlwOW9xM2E3bzRlOXlrOWF3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nNOAPjUdo4mpZFkDf8/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nmartin19&label=Profile%20views&color=0e75b6&style=flat" alt="nmartin19" /> </p>
 
