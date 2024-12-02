@@ -11,11 +11,11 @@
 
 - 🔭 Working on [a exploratory data analysis project called "Covid19_Global_Trends" using SQL and Excel](https://github.com/Nmartin19/Covid19-EDA-Global-Trends)
 
-- 🌱 I’m currently learning MSSQL, MySQL, Excel (Functions, Pivot tables, Power Query, Power Pivot, dashboards), ChatGPT, Power BI, and Python to enhance my data analysis and visualization skills.
+- 🌱 I’m currently learning SQL, Excel (Functions, Pivot tables, Power Query, Power Pivot, dashboards), ChatGPT, Power BI, and Python
 
 - 🚀 Honing data storytelling skills to effectively communicate data-driven insights
 
-- 👯 Looking to collaborate on **Open-source data analysis and visualization projects, especially in the gaming, SaaS, and health sectors. I'm also open to opportunities in the e-commerce sector**
+- 👯 Looking to collaborate on **Open-source data analysis and visualization projects (gaming, SaaS, health, e-commerce sectors)
 
 - 🤝 Feedback on my ongoing SQL and Excel data analysis projects would be welcome
 
