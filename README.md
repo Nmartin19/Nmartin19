@@ -9,15 +9,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nmartin19&label=Profile%20views&color=0e75b6&style=flat" alt="nmartin19" /> </p>
 
-- 🔭 I’m currently working on [a exploratory data analysis project called "Covid19_Global_Trends" using SQL and Excel](https://github.com/Nmartin19/Covid19-EDA-Global-Trends)
+- 🔭 Working on [a exploratory data analysis project called "Covid19_Global_Trends" using SQL and Excel](https://github.com/Nmartin19/Covid19-EDA-Global-Trends)
 
-- 🌱 I’m currently learning **MSSQL, MySQL, Excel (Advanced functions like Vlookup, xlookup. Pivot tables, Power Query, Power Pivot, VBA, Dynamic dashboards), ChatGPT and IA, Power BI, and Python to enhance my data analysis and visualization skills.**
+- 🌱 I’m currently learning MSSQL, MySQL, Excel (Functions, Pivot tables, Power Query, Power Pivot, dashboards), ChatGPT, Power BI, and Python to enhance my data analysis and visualization skills.
 
-- 👯 I’m looking to collaborate on **Open-source data analysis and visualization projects, especially in the gaming, SaaS, and health sectors. I'm also open to opportunities in the e-commerce sector**
+- 🚀 Honing data storytelling skills to effectively communicate data-driven insights
 
-- 🤝 [I’m looking for help with **Feedback on my ongoing SQL and Excel data analysis projects. Developing effective storytelling skills to communicate data-driven insights.**](https://openart.ai/create?mode=create)
+- 👯 Looking to collaborate on **Open-source data analysis and visualization projects, especially in the gaming, SaaS, and health sectors. I'm also open to opportunities in the e-commerce sector**
 
-- 💬 Ask me about **SQL, Excel**
+- 🤝 Feedback on my ongoing SQL and Excel data analysis projects would be welcome
+
+- 💬 Ask me about SQL, Excel
 
 - 📫 How to reach me **nmartinviveros@gmail.com**
 
