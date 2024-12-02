@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently learning **MSSQL, MySQL, Excel (Advanced functions like Vlookup, xlookup. Pivot tables, Power Query, Power Pivot, VBA, Dynamic dashboards), ChatGPT and IA, Power BI, and Python to enhance my data analysis and visualization skills.**
 
-- 👯 I’m looking to collaborate on **Open-source data analysis and visualization projects, especially in the gaming, SaaS, and e-commerce sectors. I'm also open to opportunities in the healthcare sector**
+- 👯 I’m looking to collaborate on **Open-source data analysis and visualization projects, especially in the gaming, SaaS, and health sectors. I'm also open to opportunities in the e-commerce sector**
 
-- 🤝 I’m looking for help with **Feedback and guidance on my ongoing SQL and Excel data analysis projects. Developing effective storytelling skills to communicate data-driven insights.**
+- 🤝 [I’m looking for help with **Feedback on my ongoing SQL and Excel data analysis projects. Developing effective storytelling skills to communicate data-driven insights.**](https://openart.ai/create?mode=create)
 
 - 💬 Ask me about **SQL, Excel**
 
